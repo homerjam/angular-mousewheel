@@ -1,6 +1,6 @@
 {
   "name": "angular-mousewheel",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Angular Mousewheel",
   "main": "mousewheel.js",
   "webpack": "mousewheel.webpack.js",
@@ -16,6 +16,6 @@
   "homepage": "https://github.com/monospaced/angular-mousewheel#readme",
   "dependencies": {
     "angular": "^1.0.6",
-    "hamsterjs": "^1.0.2"
+    "hamsterjs": "^1.1.2"
   }
 }
